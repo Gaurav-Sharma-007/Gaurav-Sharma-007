@@ -15,7 +15,7 @@ I’m a Data Science Engineer with hands-on experience building AI-driven, cloud
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gaurav-Sharma-007&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the Moment
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
